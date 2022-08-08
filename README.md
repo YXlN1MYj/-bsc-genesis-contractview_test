@@ -1,0 +1,1 @@
+# -bsc-genesis-contractview_test
